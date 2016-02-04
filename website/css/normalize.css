@@ -1,0 +1,14 @@
+
+/* CSS styles for Modernizr*/
+ul{-webkit-column-count: 3;
+	-moz-column-count: 3;
+	column-count: 3;
+}
+
+li{
+	color:green
+}
+
+.no- li.{ 
+	color: red; 
+}
